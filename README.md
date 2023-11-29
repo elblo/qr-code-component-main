@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [TODO](https://your-solution-url.com)
-- Live Site URL: [TODO](https://your-live-site-url.com)
+- Solution URL: [Solution in Frontend Mentor](https://www.frontendmentor.io/solutions/html5-page-with-flexbox-design-fl1Bryai_C)
+- Live Site URL: [Live Site in Netlify](https://elblo-qr-code-component-main.netlify.app/)
 
 ### Built with
 
